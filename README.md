@@ -1,5 +1,16 @@
 # ANOVA Analysis of Stock Prices
 
+## Table of Contents
+- [Overview](#overview)
+- [Stock Descriptions and Background](#stock-descriptions-and-background)
+- [Project Structure](#project-structure)
+- [Significance of the Project](#significance-of-the-project)
+- [Files and Folders](#files-and-folders)
+- [How to Run the Project](#how-to-run-the-project)
+- [Results](#results)
+- [Contribution](#contribution)
+- [License](#license)
+
 ## Overview
 This project performs an Analysis of Variance (ANOVA) on three stocks to compare their means and identify statistically significant differences. A violin plot is used as a visualization to represent the distribution of the data.
 
@@ -37,7 +48,6 @@ Python scripts for analysis and visualization:
 Stores output files:
 - `anova_results.txt`
 - `violin_plot.png`
-
 
 ### Other Files
 - `README.md`: Project documentation (this file).
