@@ -1,0 +1,29 @@
+ANOVA Results:
+
+Purpose: To determine whether there is a significant difference in the average daily returns of three stocks: Adani Total Gas, Adani Green, and Adani Energy Solutions.
+
+Hypotheses:
+- Null Hypothesis (H₀): The average daily returns of the three stocks are equal.
+- Alternative Hypothesis (H₁): At least one of the stocks has a significantly different average daily return compared to the others.
+
+Results:
+- F-statistic: 0.018070426756260093
+- P-value: 0.9820922755100873
+
+Conclusion:
+At a significance level of 0.05:
+- We fail to reject the null hypothesis (H₀).
+- This indicates there is no statistically significant difference in the average daily returns of the three stocks.
+
+Insights from the Violin Plot:
+1. The violin plot reveals that while the distributions of daily returns vary slightly in shape and spread for the three stocks:
+   - **Adani Green** exhibits a wider spread, suggesting higher volatility in its daily returns.
+   - **Adani Total Gas** shows a more compact distribution, indicating relatively stable daily returns.
+   - **Adani Energy Solutions** lies in between, with moderate variability.
+   
+2. Despite these differences in distribution, the mean daily returns are statistically similar, as indicated by the ANOVA results.
+
+Additional Context:
+Despite operating in different sectors, these stocks (Adani Green, ATGL, and Adani Ensol) are subsidiaries of the Adani Group conglomerate.
+The lack of significant differences in their returns suggests that their price fluctuations were primarily influenced by conglomerate-level
+events, such as the Hindenburg report and bribery charges against the promoters, rather than sector-specific factors.
