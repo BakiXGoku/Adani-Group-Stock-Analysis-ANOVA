@@ -1,4 +1,4 @@
-# ANOVA Analysis of Stock Prices
+# Adani-Group-Stock-Analysis-ANOVA
 
 ## Table of Contents
 - [Overview](#overview)
